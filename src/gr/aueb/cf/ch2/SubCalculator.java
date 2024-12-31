@@ -7,7 +7,7 @@ public class SubCalculator {
         int num2 = 5;
         int result = num1 - num2;
 
-        System.out.println("The result is: " + result);
+        System.out.println("Sub: " + result);
     }
 
     public static int subtract(int a, int b) {
